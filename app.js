@@ -28,7 +28,6 @@ app.use(middle)
 // app.get('/', function(req, res) {
 //     throw new Error('something error')
 // })
-
 // 监听服务端口号
 const server = app.listen(5000, ()=>{
     const {address, port} = server.address()
