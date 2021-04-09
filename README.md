@@ -5,3 +5,5 @@
 > npm install
 ### 3、启动项目
 > node app
+### 4、依赖环境
+* Nginx服务器
